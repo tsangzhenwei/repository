@@ -20,67 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7dbc2e75-7f29-48a6-934e-f639f0c292f2" name="默认的" comment="springcloud06---first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-book-9002/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-book-9002/src/main/java/com/java/job/Book9002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-book-9002/src/main/java/com/java/job/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-book-9002/src/main/java/com/java/job/service/OpenfeignGatewayService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-book-9002/src/main/resources/bootstrap.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-book-9002/target/classes/bootstrap.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-book-9002/target/classes/com/java/job/Book9002.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-book-9002/target/classes/com/java/job/controller/Controller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-book-9002/target/classes/com/java/job/service/OpenfeignGatewayService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-gateway-9527/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-gateway-9527/src/main/java/com/java/job/Gateway9527.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-gateway-9527/src/main/java/com/java/job/config/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-gateway-9527/src/main/java/com/java/job/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-gateway-9527/src/main/java/com/java/job/filter/GatewayFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-gateway-9527/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-gateway-9527/src/main/resources/bootstrap.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-gateway-9527/target/classes/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-gateway-9527/target/classes/bootstrap.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-gateway-9527/target/classes/com/java/job/Gateway9527.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-gateway-9527/target/classes/com/java/job/config/SwaggerConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-gateway-9527/target/classes/com/java/job/controller/Controller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-gateway-9527/target/classes/com/java/job/filter/GatewayFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-payment-9001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-payment-9001/src/main/java/com/java/job/Payment9001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-payment-9001/src/main/java/com/java/job/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-payment-9001/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-payment-9001/src/main/resources/bootstrap.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-payment-9001/target/classes/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-payment-9001/target/classes/bootstrap.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-payment-9001/target/classes/com/java/job/Payment9001.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-payment-9001/target/classes/com/java/job/controller/Controller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-person-9000/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-person-9000/src/main/java/com/java/job/Person9000.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-person-9000/src/main/java/com/java/job/blockHandler/BlockHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-person-9000/src/main/java/com/java/job/config/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-person-9000/src/main/java/com/java/job/fallback/BookFallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-person-9000/src/main/java/com/java/job/fallback/PaymentFallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-person-9000/src/main/java/com/java/job/service/FeignBookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-person-9000/src/main/java/com/java/job/service/FeignPaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-person-9000/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-person-9000/src/main/resources/bootstrap.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-person-9000/target/classes/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-person-9000/target/classes/bootstrap.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-person-9000/target/classes/com/java/job/Person9000.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-person-9000/target/classes/com/java/job/blockHandler/BlockHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-person-9000/target/classes/com/java/job/config/SwaggerConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-person-9000/target/classes/com/java/job/controller/Controller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-person-9000/target/classes/com/java/job/fallback/BookFallback.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-person-9000/target/classes/com/java/job/fallback/PaymentFallback.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-person-9000/target/classes/com/java/job/service/FeignBookService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos-person-9000/target/classes/com/java/job/service/FeignPaymentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud06.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,15 +89,13 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.Person9000">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -279,6 +217,8 @@
       <workItem from="1625707938899" duration="1789000" />
       <workItem from="1625709801962" duration="111000" />
       <workItem from="1625892278555" duration="1008000" />
+      <workItem from="1625894238830" duration="740000" />
+      <workItem from="1625907840291" duration="325000" />
     </task>
     <task id="LOCAL-00001" summary="springcloud06---first commit">
       <created>1625893275107</created>
@@ -287,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625893275107</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="springcloud06---first commit">
+      <created>1625894358403</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625894358403</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,7 +251,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="github/master" />
                       </list>
                     </value>
                   </entry>
