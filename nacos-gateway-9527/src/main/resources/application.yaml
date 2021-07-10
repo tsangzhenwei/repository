@@ -1,0 +1,19 @@
+#spring:
+#  cloud:
+#    gateway:
+#      discovery:
+#        locator:
+#          enabled: true
+#      routes:
+#          - id: payment-routes
+#            uri: lb://payment
+#            predicates:
+#            - Path= /payments/**
+#
+#          - id: person-routes
+#            uri: lb://person
+#            predicates:
+#            - Path= /persons/**
+#      enabled: true
+
+

@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7dbc2e75-7f29-48a6-934e-f639f0c292f2" name="默认的" comment="springcloud06---first commit">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-book-9002/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-book-9002/src/main/java/com/java/job/Book9002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-book-9002/src/main/java/com/java/job/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-book-9002/src/main/java/com/java/job/service/OpenfeignGatewayService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-book-9002/src/main/resources/bootstrap.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-book-9002/target/classes/bootstrap.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-book-9002/target/classes/com/java/job/Book9002.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-book-9002/target/classes/com/java/job/controller/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-book-9002/target/classes/com/java/job/service/OpenfeignGatewayService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-gateway-9527/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-gateway-9527/src/main/java/com/java/job/Gateway9527.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-gateway-9527/src/main/java/com/java/job/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-gateway-9527/src/main/java/com/java/job/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-gateway-9527/src/main/java/com/java/job/filter/GatewayFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-gateway-9527/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-gateway-9527/src/main/resources/bootstrap.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-gateway-9527/target/classes/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-gateway-9527/target/classes/bootstrap.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-gateway-9527/target/classes/com/java/job/Gateway9527.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-gateway-9527/target/classes/com/java/job/config/SwaggerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-gateway-9527/target/classes/com/java/job/controller/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-gateway-9527/target/classes/com/java/job/filter/GatewayFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-payment-9001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-payment-9001/src/main/java/com/java/job/Payment9001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-payment-9001/src/main/java/com/java/job/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-payment-9001/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-payment-9001/src/main/resources/bootstrap.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-payment-9001/target/classes/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-payment-9001/target/classes/bootstrap.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-payment-9001/target/classes/com/java/job/Payment9001.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-payment-9001/target/classes/com/java/job/controller/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-person-9000/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-person-9000/src/main/java/com/java/job/Person9000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-person-9000/src/main/java/com/java/job/blockHandler/BlockHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-person-9000/src/main/java/com/java/job/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-person-9000/src/main/java/com/java/job/fallback/BookFallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-person-9000/src/main/java/com/java/job/fallback/PaymentFallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-person-9000/src/main/java/com/java/job/service/FeignBookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-person-9000/src/main/java/com/java/job/service/FeignPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-person-9000/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-person-9000/src/main/resources/bootstrap.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-person-9000/target/classes/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-person-9000/target/classes/bootstrap.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-person-9000/target/classes/com/java/job/Person9000.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-person-9000/target/classes/com/java/job/blockHandler/BlockHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-person-9000/target/classes/com/java/job/config/SwaggerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-person-9000/target/classes/com/java/job/controller/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-person-9000/target/classes/com/java/job/fallback/BookFallback.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-person-9000/target/classes/com/java/job/fallback/PaymentFallback.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-person-9000/target/classes/com/java/job/service/FeignBookService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-person-9000/target/classes/com/java/job/service/FeignPaymentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud06.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\soft\maven-3.6.3\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\soft\maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="skipTests" value="true" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1uO0x3lBtJmjbk3sWrg60grIYR6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.24482758" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Person9000">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="nacos-payment-9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="nacos-payment-9001" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Book9002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="nacos-book-9002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.job.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.job.Book9002" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gateway9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="nacos-gateway-9527" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.job.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.job.Gateway9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Payment9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="nacos-payment-9001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.job.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.job.Payment9001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Person9000" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="nacos-person-9000" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.job.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.job.Person9000" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Gateway9527" />
+      <item itemvalue="Spring Boot.Person9000" />
+      <item itemvalue="Spring Boot.Payment9001" />
+      <item itemvalue="Spring Boot.Book9002" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Book9002" />
+        <item itemvalue="Spring Boot.Person9000" />
+        <item itemvalue="Spring Boot.Gateway9527" />
+        <item itemvalue="Spring Boot.Payment9001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7dbc2e75-7f29-48a6-934e-f639f0c292f2" name="默认的" comment="" />
+      <created>1624521570061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624521570061</updated>
+      <workItem from="1624521573681" duration="6032000" />
+      <workItem from="1624585472188" duration="1382000" />
+      <workItem from="1624940054423" duration="12809000" />
+      <workItem from="1625015363899" duration="3887000" />
+      <workItem from="1625022286369" duration="6145000" />
+      <workItem from="1625034192431" duration="690000" />
+      <workItem from="1625038152156" duration="6566000" />
+      <workItem from="1625112603656" duration="6791000" />
+      <workItem from="1625129894760" duration="2293000" />
+      <workItem from="1625189414591" duration="19562000" />
+      <workItem from="1625217273000" duration="1540000" />
+      <workItem from="1625275220975" duration="7306000" />
+      <workItem from="1625291752542" duration="9933000" />
+      <workItem from="1625448846613" duration="7085000" />
+      <workItem from="1625540888002" duration="2021000" />
+      <workItem from="1625651082370" duration="856000" />
+      <workItem from="1625707938899" duration="1789000" />
+      <workItem from="1625709801962" duration="111000" />
+      <workItem from="1625892278555" duration="1008000" />
+    </task>
+    <task id="LOCAL-00001" summary="springcloud06---first commit">
+      <created>1625893275107</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625893275107</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="springcloud06---first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="springcloud06---first commit" />
+  </component>
+</project>

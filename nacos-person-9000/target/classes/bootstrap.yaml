@@ -1,0 +1,46 @@
+spring:
+  application:
+    name: person
+  profiles:
+    include: dev
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.88.88:8848
+      config:
+        server-addr: 192.168.88.88:8848
+        file-extension: yaml
+        namespace: dev
+    sentinel:
+      enabled: true
+      transport:
+        dashboard: 192.168.88.88:8080
+        port: 8719
+      datasource:
+        ds:
+          nacos:
+            server-addr: 192.168.88.88:8848
+            dataId: ${spring.application.name}
+            groupId: DEFAULT_GROUP
+            data-type: json
+            rule-type: flow
+
+
+    loadbalancer:
+      ribbon:
+        enabled: true
+
+#ribbon:
+#  #指的是建立连接所用时间,适用于网络状况正常情况下,两端连接所用时间
+#  ReadTimeout:  1000
+#  #指的是建立连接后从服务器读取可用资源所用时间
+#  ConnectTimeout: 1000
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+feign:
+  circuitbreaker:
+    enabled: true
