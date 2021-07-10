@@ -9,6 +9,7 @@
         <module name="nacos-book-9002" />
         <module name="nacos-gateway-9527" />
         <module name="nacos-person-9000" />
+        <module name="nacos-order-9003" />
         <module name="nacos-payment-9001" />
       </profile>
     </annotationProcessing>

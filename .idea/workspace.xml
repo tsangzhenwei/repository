@@ -19,7 +19,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dbc2e75-7f29-48a6-934e-f639f0c292f2" name="默认的" comment="springcloud06---first commit">
+    <list default="true" id="7dbc2e75-7f29-48a6-934e-f639f0c292f2" name="默认的" comment="3 update readme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +79,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.24482758" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -218,7 +218,7 @@
       <workItem from="1625709801962" duration="111000" />
       <workItem from="1625892278555" duration="1008000" />
       <workItem from="1625894238830" duration="740000" />
-      <workItem from="1625907840291" duration="325000" />
+      <workItem from="1625907840291" duration="962000" />
     </task>
     <task id="LOCAL-00001" summary="springcloud06---first commit">
       <created>1625893275107</created>
@@ -234,7 +234,21 @@
       <option name="project" value="LOCAL" />
       <updated>1625894358403</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update readme">
+      <created>1625908296886</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1625908296886</updated>
+    </task>
+    <task id="LOCAL-00004" summary="3 update readme">
+      <created>1625908706881</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1625908706881</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,6 +283,8 @@
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
     <MESSAGE value="springcloud06---first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="springcloud06---first commit" />
+    <MESSAGE value="update readme" />
+    <MESSAGE value="3 update readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 update readme" />
   </component>
 </project>
